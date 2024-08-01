@@ -6,7 +6,8 @@ Developing scalable and efficient solutions using the Django,(djagno, django-res
 Let's build something great together!"
 
 
-![DeveloperDevelopersGIF](https://github.com/user-attachments/assets/a4204479-72d1-4211-9b22-bf66129e7c11)
+![Uploading DeveloperGIF.gif…]()
+
 
 <!--
 **sudheeshsubash/sudheeshsubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
